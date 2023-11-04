@@ -159,7 +159,7 @@ const Navbar = () => {
               </p>
               <div className="flex items-center justify-between my-4 w-full sm:w-[80%]">
                 <a
-                  href="https://www.linkedin.com/in/clint-briley-50056920a/"
+                  href="https://www.linkedin.com/in/elizabeth-ortiz-rivas/"
                   target="_blank"
                   rel="noreferrer">
                   <div className="rounded-[1rem] shadow-lg  shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300">
@@ -169,7 +169,7 @@ const Navbar = () => {
                   </div>
                 </a>
                 <a
-                  href="https://github.com/fireclint"
+                  href="https://github.com/LizOrtizR"
                   target="_blank"
                   rel="noreferrer">
                   <div className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300">
